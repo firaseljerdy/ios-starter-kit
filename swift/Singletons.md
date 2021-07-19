@@ -15,7 +15,7 @@ class Singleton {
 }
 ```
 
-But you can create also create thsm like this with a private constructor
+But you can create also create them like this with a private constructor
 
 ```swift
 class NetworkManager {
